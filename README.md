@@ -7,8 +7,6 @@ I guess the reason is that I reduced the number of filters in fc6 and fc7.
 
 I will not fix it, but you can still reference this code for your experiment. Good luck!
 
-Good luck!
-
 ## Download Model
 
 fc6 layer with size 1\*1: [Google Drive](https://drive.google.com/open?id=0BwOAQMGvXhp2UWZVY0w4OE52SlU)
